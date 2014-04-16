@@ -1,0 +1,9 @@
+[submodule "node_modules"]
+	path = node_modules
+	url = https://github.com/volkovasystems/node_modules.git
+[submodule "work"]
+	path = work
+	url = https://github.com/volkovasystems/work.git
+[submodule "convertToSequence"]
+	path = convertToSequence
+	url = https://github.com/volkovasystems/convertToSequence.git
